@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning about AI agents and LLM working structure
 - 💞️ I’m looking to collaborate on AI-driven projects and innovative tech ideas
 - 📫 How to reach me: jayasaireddy2005@icloud.com
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring AI and its new technologies
