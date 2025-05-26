@@ -3,6 +3,6 @@
 - 👀 I’m interested in AI and its future technology ideas
 - 🌱 I’m currently learning about AI agents and LLM working structure
 - 💞️ I’m looking to collaborate on AI-driven projects and innovative tech ideas
-- 📫 How to reach me: **jayasaireddy2005@icloud.com**
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: jayasaireddy2005@icloud.com
+- 😄 Pronouns: He
 - ⚡ Fun fact: I enjoy exploring AI and its new technologies
