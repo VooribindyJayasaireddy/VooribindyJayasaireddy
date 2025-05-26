@@ -2,7 +2,7 @@
 - 🎓 I’m currently studying at Woxsen University, in my final year
 - 👀 I’m interested in AI and its future technology ideas
 - 🌱 I’m currently learning about AI agents and LLM working structure
-- 💞️ I’m looking to collaborate on AI-driven projects and innovative tech solutions
+- 💞️ I’m looking to collaborate on AI-driven projects and innovative tech ideas
 - 📫 How to reach me: **jayasaireddy2005@icloud.com**
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring AI and its new technologies
